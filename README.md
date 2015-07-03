@@ -6,6 +6,8 @@
 
 > Requires: _jQuery 1.7+_.
 
+# Please use development branch.
+
 To use _jQuery Validate_ you just need to include in your code a version of the <a href="http://jquery.com/" target="_blank">jQuery library</a> equal or more recent than `1.7` and a file with the plugin. <a href="https://www.dropbox.com/s/p5xhpb52572xy5b/jQuery%20Validate%201.1.2.zip" target="_blank">Click here to download the plugin</a>.
 
 After this, you just need select your form and calling the `jQuery.fn.validate` method.
